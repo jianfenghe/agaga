@@ -1,4 +1,4 @@
-
+<<<<<<< HEAD
 yyuykjhkjhnbmnbmnbmnbmnbhgfhgf
 jhkjhlkjhyyiuhiughilu
 111111111
@@ -12,3 +12,6 @@ jhkjhkj fydhfgdghf  jhbkl jbn ;kn lk
 k ;lkl;jk ;lkj
  klj l;kj ;lkj ;lkj ;lk klj ';lk  123
  =========================
+ 
+=======
+>>>>>>> f75fd379e3818f6c01bffb3fa3d5c8c29511f007
